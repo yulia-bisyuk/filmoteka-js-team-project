@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Oleksandr-Stepanyshyn.github.io/filmoteka",
+  "homepage": "https://yulia-bisyuk.github.io/filmoteka-js-team-project",
   "scripts": {
     "dev": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka-js-team-project/"
   },
   "repository": {
     "type": "git",
